@@ -5,5 +5,3 @@ scikit-learn
 streamlit-drawable-canvas
 tensorflow-cpu
 scikit-image
-urllib.request
-webbrowser
