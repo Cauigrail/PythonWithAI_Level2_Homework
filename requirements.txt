@@ -1,7 +1,5 @@
-streamlit
-numpy
-pandas
-scikit-learn
-streamlit-drawable-canvas
 tensorflow-cpu
+streamlit==1.8.1
+streamlit-drawable-canvas
+numpy
 scikit-image
