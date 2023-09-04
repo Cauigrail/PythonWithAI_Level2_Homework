@@ -20,9 +20,9 @@ def get_image_htmlWeb(page_name, file_name,httpHref):
 data_url = get_image_html("分類-_乳癌預測", "./breast_cancer.jpg")
 data_url_2 = get_image_html("迴歸-_計程車小費預測(課堂自帶-未做)", "./taxi.png")
 data_url_3 = get_image_htmlWeb("梯度下降法(Colab)", "./Colab.png","https://drive.google.com/file/d/1Pf43IjEkj5KQ-tHOlMPM0u2kvWPb_XiY/view")
-data_url_4 = get_image_html("解聯立方程式(作業答案-未做)", "./代入消去法.png")
+data_url_4 = get_image_html("解聯立方程式(作業答案-未做)", "./xy.png")
 data_url_5 = get_image_htmlWeb("EDA資料探索與分析(Colab)", "./Colab.png","https://colab.research.google.com/drive/1SpmNMA3Nc2WgK3FU_OZRSmeU3g66suiw")
-data_url_6 = get_image_html("分類-_手寫英文字母辨識(nonCNN版)", "./手寫英文.png")
+data_url_6 = get_image_html("分類-_手寫英文字母辨識(nonCNN版)", "./English.png")
 
 st.set_page_config(
     page_title="Python Level-2 學習歷程",
