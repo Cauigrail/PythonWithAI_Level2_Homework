@@ -117,4 +117,3 @@ with col2:
         ''')
     # st.image('Colab.png')
     st.markdown(data_url_5, unsafe_allow_html=True)
-    
