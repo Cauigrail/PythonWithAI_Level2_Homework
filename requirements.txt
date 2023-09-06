@@ -5,3 +5,5 @@ numpy
 scikit-image
 pandas
 scikit-learn
+sympy
+webbrowser
